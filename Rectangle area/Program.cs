@@ -35,6 +35,10 @@ namespace Rectangle_area
             Console.WriteLine("=======================================================================");
             Console.WriteLine($"Rectangle area: {result} mm^2");
             Console.WriteLine("=======================================================================");
+            Console.ReadKey();
         }
+       
     }
+    
+
 }
