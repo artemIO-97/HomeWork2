@@ -31,7 +31,7 @@ namespace Rectangle_area
             }
             Console.WriteLine($"Second side =  {parseSecondSide} mm");
             Console.WriteLine();
-            double result = parseFirstSide * parseFirstSide;
+            double result = parseSecondSide * parseFirstSide;
             Console.WriteLine("=======================================================================");
             Console.WriteLine($"Rectangle area: {result} mm^2");
             Console.WriteLine("=======================================================================");
